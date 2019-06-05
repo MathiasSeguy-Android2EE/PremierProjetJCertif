@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">PremierProjet</string>
+    <string name="hello_world">Hello world! Bonjour la JCertif, Bonjour et bienvenu !</string>
+    <string name="menu_settings">Settings</string>
+    <string name="nouvelle1">bonjour encore tous le monde</string>
+    <string name="title_activity_first">FirstActivity de la JCertif 2012 </string>
+    <string name="avant">Avant</string>
+    <string name="apres">Apres</string>
+
+</resources>
